@@ -4,3 +4,4 @@ matplotlib
 jupyter
 nose
 tabulate
+scikit-image
